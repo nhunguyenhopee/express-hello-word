@@ -1,1 +1,1 @@
-FROM node:alpine
+FROM mongo:4.2
